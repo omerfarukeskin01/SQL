@@ -1,0 +1,3 @@
+--SELECT * FROM film where replacement_cost between 12.99 and 16.99 
+--SELECT  first_name ,last_name FROM actor where first_name in ( 'Penelope','Nick', 'Ed')
+--SELECT * FROM film where rental_rate in ( 0.99, 2.99, 4.99 ) and replacement_cost in (12.99,15.99,28.99)
